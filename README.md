@@ -1,16 +1,24 @@
 <div align="center">
 
-# Hi there, I'm Md Moniruzzaman Tonoy 👋
+<!-- Animated header background: served as SVG by capsule-render -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0F4C81,100:06B6D4&text=Md%20Moniruzzaman%20Tonoy&fontColor=FFFFFF&fontSize=38&fontAlignY=37&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack%20%7C%20Instructor&descAlignY=58&descSize=16&animation=fadeIn" alt="Animated profile header" />
 
-### Full Stack Web Developer | MERN Stack Developer | Web Development Instructor
+<!-- Replace the URL below with your preferred direct public image URL if desired. -->
+<a href="https://md-moniruzzaman-tonoy.web.app/">
+  <img src="https://github.com/moniruzzaman2428.png?size=240" width="155" height="155" alt="Md Moniruzzaman Tonoy profile photo" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Modern+Full+Stack+Web+Applications;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Web+Development+Instructor+at+Open+IT+Institute;Exploring+Conversational+AI+and+Generative+AI)](https://git.io/typing-svg)
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://md-moniruzzaman-tonoy.web.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/moniruzzaman2428)
-[![Open IT Institute](https://img.shields.io/badge/Open%20IT%20Institute-Website-0F4C81?style=for-the-badge&logo=googlechrome&logoColor=white)](https://openitinstitute.com/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=780&lines=Hello%2C+I%27m+Md+Moniruzzaman+Tonoy;Building+Modern+Full+Stack+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Web+Development+Instructor+at+Open+IT+Institute;Exploring+Conversational+AI+%26+Generative+AI)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=moniruzzaman2428&label=Profile%20Views&color=0e75b6&style=flat)
+<br />
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://md-moniruzzaman-tonoy.web.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-Follow%20Me-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moniruzzaman2428)
+[![Open IT Institute](https://img.shields.io/badge/OPEN%20IT-INSTITUTE-0F4C81?style=for-the-badge&logo=googlechrome&logoColor=white)](https://openitinstitute.com/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=moniruzzaman2428&label=Profile%20Views&color=0891b2&style=flat-square)
 
 </div>
 
@@ -132,8 +140,11 @@ I'm happy to connect with developers, collaborators, recruiters, and teams build
 
 <div align="center">
 
-### ✨ "Keep learning, keep building, and never stop improving."
+### ✨ Keep learning. Keep building. Keep improving.
 
 **Thanks for visiting my profile!** ⭐
+
+<!-- Animated footer background -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,45:0F4C81,100:06B6D4&animation=fadeIn" alt="Animated wave footer" />
 
 </div>
