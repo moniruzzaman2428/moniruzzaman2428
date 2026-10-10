@@ -5,7 +5,7 @@
 
 <!-- Replace the URL below with your preferred direct public image URL if desired. -->
 <a href="https://md-moniruzzaman-tonoy.web.app/">
-  <img src="https://i.ibb.co.com/G37nm7Kn/Whats-App-Image-2026-10-10-at-20-35-09.jpg" width="155" height="155" alt="Md Moniruzzaman Tonoy profile photo" />
+  <img src="https://i.ibb.co.com/G37nm7Kn/Whats-App-Image-2026-10-10-at-20-35-09.jpg" height="155" alt="Md Moniruzzaman Tonoy profile photo" />
 </a>
 
 <br />
