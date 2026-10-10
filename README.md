@@ -16,7 +16,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://md-moniruzzaman-tonoy.web.app/)
 [![GitHub](https://img.shields.io/badge/GITHUB-Follow%20Me-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moniruzzaman2428)
-[![Open IT Institute](https://img.shields.io/badge/OPEN%20IT-INSTITUTE-0F4C81?style=for-the-badge&logo=googlechrome&logoColor=white)](https://openitinstitute.com/)
+[![Open IT Institute](https://img.shields.io/badge/OPEN%20IT-INSTITUTE-0F4C81?style=for-the-badge&logo=googlechrome&logoColor=white)]((https://openitinstitute-c8d2d.web.app/))
 
 ![Profile Views](https://komarev.com/ghpvc/?username=moniruzzaman2428&label=Profile%20Views&color=0891b2&style=flat-square)
 
@@ -71,7 +71,7 @@ A web platform for an IT training institute, focused on showcasing courses, supp
 - Student/admin dashboard features
 - Authentication and API-based data management
 
-🔗 **[Visit Live Website](https://openitinstitute.com/)**
+🔗 **[Visit Live Website](https://openitinstitute-c8d2d.web.app/)**
 
 ### 🤖 OpenIT AI — AI-Focused Project
 An AI-focused project reflecting my growing interest in conversational interfaces and practical AI solutions.
@@ -135,8 +135,8 @@ My portfolio introduces my skills, experience, and selected projects in one plac
 I'm happy to connect with developers, collaborators, recruiters, and teams building useful digital products.
 
 - 🌐 **Portfolio:** [md-moniruzzaman-tonoy.web.app](https://md-moniruzzaman-tonoy.web.app/)
-- 💻 **GitHub:** [github.com/moniruzzaman2428](https://github.com/moniruzzaman2428)
-- 🏫 **Open IT Institute:** [openitinstitute.com](https://openitinstitute.com/)
+- 💻 **GitHub:** [github.com/moniruzzaman2428](https://github.com/nur922184)
+- 🏫 **Open IT Institute:** [openitinstitute.com](https://openitinstitute-c8d2d.web.app/)
 
 <div align="center">
 
