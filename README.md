@@ -179,12 +179,12 @@ Next.js static export with a live color-shifting theme, light/dark mode, a 3D gl
 
 | Article | Topic |
 | :-- | :-- |
-| [Getting Started with React Hooks](https://md-moniruzzaman-tonoy.web.app/blog/getting-started-with-react-hooks/) | React |
-| [Mastering Tailwind CSS](https://md-moniruzzaman-tonoy.web.app/blog/mastering-tailwind-css/) | CSS |
-| [Node.js Best Practices](https://md-moniruzzaman-tonoy.web.app/blog/node-js-best-practices/) | Node.js |
-| [Responsive Design Principles](https://md-moniruzzaman-tonoy.web.app/blog/responsive-design-principles/) | Web |
-| [Introduction to MongoDB](https://md-moniruzzaman-tonoy.web.app/blog/introduction-to-mongodb/) | Database |
-| [JavaScript ES6+ Features](https://md-moniruzzaman-tonoy.web.app/blog/javascript-es6-plus-features/) | JavaScript |
+| [Getting Started with React Hooks](https://md-moniruzzaman-tonoy.web.app/blog/modern-react-hooks-complete-guide/) | React |
+| [Mastering Tailwind CSS](https://md-moniruzzaman-tonoy.web.app/blog/mastering-tailwind-css-modern-ui/) | CSS |
+| [Node.js Best Practices](https://md-moniruzzaman-tonoy.web.app/blog/nodejs-express-backend-development/) | Node.js |
+| [Responsive Design Principles](https://md-moniruzzaman-tonoy.web.app/blog/responsive-web-design-complete-guide/) | Web |
+| [Introduction to MongoDB](https://md-moniruzzaman-tonoy.web.app/blog/mongodb-database-design-guide/) | Database |
+| [JavaScript ES6+ Features](https://md-moniruzzaman-tonoy.web.app/blog/javascript-es6-modern-development/) | JavaScript |
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
